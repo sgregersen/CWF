@@ -1,0 +1,88 @@
+[C. F. Wiepken, Zur Vogelfauna der Nordsee-Insel Wangerooge, 1877]
+
+
+Klammvagel (Astur nisus)
+
+Kattvagel (Otus brachyotus)
+
+Schwaarluk (Hirundo rustica)
+
+Hohnersteert (Troglodytes parvulus)
+
+Arbik (Erithacus rubecula)
+
+Pannbicker (Saxicola oenanthe)
+
+Plantfreter (Motacilla alba)
+
+Gälquitt (Budytes flava)
+
+Fitfit (Anthus pratensis)
+
+Lützuk (Alauda arvensis)
+
+Obicktjunge (Alauda cristata)
+
+Robin (Linota cannabina)
+
+Greinke (Chlorospiza chloris)
+
+Ostfink (Fringilla coelebs)
+
+Girder (Fringilla montifringilla)
+
+Länink (Passer domesticus)
+
+Schwartauk (Corvus corona)
+
+Buntrauk (Corvus cornix)
+
+Buschduw (Columba palumbus)
+
+Wille Duw (Peristera turtur)
+
+Greinlandtürk (Charadrius pluvialis)
+
+Murmussuck (Pluvialis hiaticula)
+
+Mussuck (Pluvialis cantianus)
+
+Liev (Haematopus ostralegus)
+
+Tüdick (Totanus calidris)
+
+Schittreger (Ardea cinerea)
+
+Wille Goos (Anser segetum)
+
+Rottgoos (Anser albifrons)
+
+Bergraën (Vulpanser tadorna)
+
+Krickaën (Anas crecca)
+
+Aën (Anas boschas)
+
+Middelschlagaën (Anas penelope)
+
+Gauluus (Harelda glacialis)
+
+Duker (Oedemia nigra)
+
+Aalscholwer (Mergus merganser)
+
+Jan van Gent (Dysporus bassanus)
+
+Mekasteen (Sterna cantiaca)
+
+Kasteen (Sterna hirundo)
+
+Plitik (Sterna minuta)
+
+Mekoob (Chroicocephalos ridibundus)
+
+Koob (Larus marinus)
+
+Koob (Larus argentatus)
+
+Harm (Alva torda)
