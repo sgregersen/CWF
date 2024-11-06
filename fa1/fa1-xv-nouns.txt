@@ -609,7 +609,7 @@ fárel, (n.) der Vortheil.
 
 fárein, (m.) der Vordertheil.
 
-fáriinsmon, da fáriinsliuud, ein Schiffer überhaupt, er mag Capitain, Kich oder Steuermann sein. Sie sind alle gleich und haben alle gleich viel Ansehn.
+fáriinsmon, da fáriinsliuud, ein Schiffer überhaupt, er mag Capitain, Koch oder Steuermann sein. Sie sind alle gleich und haben alle gleich viel Ansehn.
 
 fárndeil, (f. u. n.) das Viertel.
 
@@ -703,7 +703,7 @@ fláder, (m.) da -. u. -s. Fladen. So nennt man einen Kuchen von Roggen- oder We
 
 flag, (m.) da -. die Flagge.
 
-flä'ärder, (m.) auch djuu - wenn es ein Frauenzimmer ist, djuu fä'ärsuster - der Klatscher.
+flä'ärder, (m.) auch djuu - wenn es ein Frauenzimmer ist, djuu flä'ärsuster - der Klatscher.
 
 flask, (n.) das Fleisch. kúuflask, scha'ipflask.
 
@@ -793,7 +793,9 @@ foot, (m.) da -. der Fuß.
 
 fóotbooTHem, (m.) da -s. der Fußboden.
 
-fóoerwatter, (m.) da -. u. -en. die Frage.
+fóoerwatter, (n.) das Fahrwasser.
+
+fraig, (m.) da -. u. -en. die Frage.
 
 fraud, (f.) da -. die Freude.
 
@@ -953,7 +955,7 @@ hánhuus, (n.) das Hühnerhaus.
 
 hánrik, (n) die Sprossen, Latten, worauf die Hühner sitzen.
 
-hánup, (n.) der Hand.
+hánup, (n.) der Hanf.
 
 hárbarg, (n.) die Herberge.
 
@@ -1284,7 +1286,7 @@ kéerel, (m.) da -s. der Kerl.
 
 kia'ubunk, (m.) da -er. die Kinnlade.
 
-kíichelstein, (m.) da —er. (auch flint m.) der Kiesel. — Wenn das Kind zu viel gegezzen hat, dann sagt wohl die Mutter verdrießlich: den weil iik dat 'er 't kíichelstein in diin liif wuurd.
+kíichelstein, (m.) da —er. (auch flint m.) der Kiesel. — Wenn das Kind zu viel gegessen hat, dann sagt wohl die Mutter verdrießlich: den weil iik dat 'er 't kíichelstein in diin liif wuurd.
 
 kíiker, (m.) da -. das Fernrohr.
 
@@ -1343,7 +1345,7 @@ klúuderhunne, (m.) da -s. der Puterhahn.
 
 klump, (m.) da -. der Klumpen.
 
-kluut, (m.) da -. der kloð.
+kluut, (m.) da -. der Kloß.
 
 klúuter, (m.) da -s. ein kleiner Mehlkloß.
 
@@ -1830,7 +1832,7 @@ númme, (m.) da -s, der Name.
 
 nun, (f.) die Nonne.
 
-nútte, (f.) da -s, due Nuß.
+nútte, (f.) da -s, die Nuß.
 
 núttelschüüluu, (f.) da -. die Nußschale.
 
@@ -2307,7 +2309,7 @@ Die Rinde eines Baums heißt dait båårn.
 
 schuum, (n.) der Schaum.
 
-schúmmel, (n.) pld.: schin. Schmutz auf dem Kopfe durch Ausdünstung enstancen
+schúmmel, (n.) pld.: schin. Schmutz auf dem Kopfe durch Ausdünstung enstanden
 
 schuurf, (f.) die Krätze. — wut bist duu schúurviig. —
 
@@ -2505,7 +2507,7 @@ sóngbauk, (n.) da -er. das Gesangbuch.
 
 sónnelk, (f.) plur.: da sónnelng, ein Seefisch.
 
-sóoptii, (m.) oder sóopoo, da -s, der Schnaps.
+sóoptii, (m.) oder sóopii, da -s, der Schnaps.
 
 såårg, (f.) da -. die Sorge.
 
