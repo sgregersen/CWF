@@ -1,0 +1,263 @@
+[rec-si-conv1]
+
+
+WW_transcr_WF   ((..)) feel up Wangeróoch nich?
+TC              00:00:06.405 - 00:00:09.544
+
+
+JJ_transcr_WF   oi
+TC              00:00:09.671 - 00:00:10.652
+
+
+WW_transcr_WF   dait weer doch net
+TC              00:00:11.823 - 00:00:12.829
+
+
+JJ_transcr_WF   dait weer doch gans net
+TC              00:00:12.354 - 00:00:13.829
+
+
+WW_transcr_WF   ((..)) yum wúnnet deer saa ticht bii de tuun / ha'iden ímmer dait le'iden un - dait kírspingeln un le'iden ha'iden yum ímmer faróoren
+TC              00:00:15.216 - 00:00:22.627
+
+
+JJ_transcr_WF   oi
+TC              00:00:22.412 - 00:00:23.235
+
+
+JJ_transcr_WF   un too ((kirs...))
+TC              00:00:23.882 - 00:00:25.529
+
+
+WW_transcr_WF   un den dan oor meen
+TC              00:00:25.863 - 00:00:27.627
+
+
+WW_transcr_WF   won dan gesóng fon der tuun 'erdille súngen weer ((.. good heer))
+TC              00:00:28.373 - 00:00:34.569
+
+
+JJ_transcr_WF   oi
+TC              00:00:31.667 - 00:00:32.196
+
+
+JJ_transcr_WF   un wii lúupen jaa man ((íiven)) döör s- döör uuz tuunn den wéeren wii bii de tuun
+TC              00:00:36.098 - 00:00:41.863
+
+
+WW_transcr_WF   'n scháTHii dat wii deer dánne músten un naa Fooel too
+TC              00:00:42.882 - 00:00:47.392
+
+
+WW_transcr_WF   yum sint jaa noch al éerder wéggiingen as wii
+TC              00:00:47.500 - 00:00:50.098
+
+
+JJ_transcr_WF   iik weer njúugen jeer ((..)) dánne kíimiin ((sint))
+TC              00:00:50.725 - 00:00:53.471
+
+
+WW_transcr_WF   un iik weer thréttiin
+TC              00:00:53.882 - 00:00:55.196
+
+
+JJ_transcr_WF   ((..))
+TC              00:00:55.098 - 00:00:55.706
+
+
+WW_transcr_WF   un daa häv' wii hiir jaa saa ticht biióoren wúnnet
+TC              00:00:57.039 - 00:00:59.686
+
+
+JJ_transcr_WF   ímmer far uus uur
+TC              00:01:00.745 - 00:01:02.471
+
+
+JJ_transcr_WF   ((..))
+TC              00:01:03.235 - 00:01:04.667
+
+
+WW_transcr_WF   'n scháTHii man dat diin mäm daa saa édder stuurv
+TC              00:01:06.471 - 00:01:09.843
+
+
+JJ_transcr_WF   oi yuu stuurv wail daa weer iik noch man njúugen - jaa njúugen jeer
+TC              00:01:09.275 - 00:01:13.608
+
+
+WW_transcr_WF   un diin bab weer me'isttiid weg
+TC              00:01:14.333 - 00:01:16.824
+
+
+JJ_transcr_WF   dan weer ímmer weg / dan fáret
+TC              00:01:15.824 - 00:01:17.961
+
+
+WW_transcr_WF   fáret jaa up see
+TC              00:01:18.000 - 00:01:19.588
+
+
+JJ_transcr_WF   oi
+TC              00:01:19.157 - 00:01:20.137
+
+
+WW_transcr_WF   un weer bístuu daa wéggiingen
+TC              00:01:21.588 - 00:01:23.514
+
+
+JJ_transcr_WF   bii miin bop
+TC              00:01:24.176 - 00:01:25.196
+
+
+WW_transcr_WF   saa
+TC              00:01:25.588 - 00:01:26.196
+
+
+WW_transcr_WF   un duu kaumst doch jaa édder uut 't huus bii oors liúuden nich?
+TC              00:01:28.118 - 00:01:31.412
+
+
+JJ_transcr_WF   oi ((..)) bii oors liúuden kíimiin
+TC              00:01:31.314 - 00:01:34.961
+
+
+JJ_transcr_WF   un saa häb iik mii uk édder biifríid / daa weer iik eerst njúugentiin jeer
+TC              00:01:35.647 - 00:01:40.196
+
+
+WW_transcr_WF   saa
+TC              00:01:40.118 - 00:01:40.863
+
+
+WW_transcr_WF   un daa hä'stuu sáafel béener haivt un häst yam all glúckelk grooet tíinen
+TC              00:01:43.078 - 00:01:46.882
+
+
+JJ_transcr_WF   daa häb iik áchtiin béener haivt
+TC              00:01:47.392 - 00:01:49.392
+
+
+JJ_transcr_WF   un thréttiin häb 'k uut school brooet
+TC              00:01:50.176 - 00:01:52.490
+
+
+JJ_transcr_WF   fiiv sint litk stúurven
+TC              00:01:52.627 - 00:01:54.275
+
+
+JJ_transcr_WF   un nuu sint fon daa grooet biifríid thriiuu stúurven
+TC              00:01:54.608 - 00:01:58.725
+
+
+JJ_transcr_WF   thríiuu fa'uner
+TC              00:01:58.902 - 00:02:00.216
+
+
+WW_transcr_WF   ((.. léeven))
+TC              00:02:03.216 - 00:02:05.941
+
+
+WW_transcr_WF   deer lat sick den áaber all nicks an máckii / dait sint a'inmool suks schícksaalsleeg
+TC              00:02:07.569 - 00:02:12.059
+
+
+JJ_transcr_WF   oi
+TC              00:02:11.490 - 00:02:12.294
+
+
+JJ_transcr_WF   un den feel laun haivt ((..))
+TC              00:02:13.529 - 00:02:17.294
+
+
+JJ_transcr_WF   un ímmer daa béener iik sin narns wéggiingen iik häb gaar keinen - nicks e'igen in ((..))
+TC              00:02:17.588 - 00:02:23.333
+
+
+WW_transcr_WF   duu häst ímmer árbeid nauch haid
+TC              00:02:24.078 - 00:02:26.118
+
+
+JJ_transcr_WF   bloos iik haid 'n góoden mon / wii kúunen uus good fardrígge
+TC              00:02:26.902 - 00:02:30.196
+
+
+WW_transcr_WF   huu laang is dan nuu al dooed
+TC              00:02:31.824 - 00:02:33.804
+
+
+WW_transcr_WF   ((..)) for 'n twíntiig jeer wol?
+TC              00:02:34.275 - 00:02:37.255
+
+
+JJ_transcr_WF   njúugentiinhunnert ((..))
+TC              00:02:37.804 - 00:02:42.098
+
+
+JJ_transcr_WF   njúugentiinhunnert fíirtiin is ((..)) miin mon al stúurven
+TC              00:02:43.392 - 00:02:47.275
+
+
+WW_transcr_WF   ((..))
+TC              00:02:49.922 - 00:02:54.314
+
+
+JJ_transcr_WF   un miin béener daa sint all daa biifríid daa gungt 't all good un mii gungt 't uk noch all gans good
+TC              00:02:54.902 - 00:03:00.667
+
+
+WW_transcr_WF   un den bístuu uk jaa noch naa Améerikaa wíziin
+TC              00:03:01.373 - 00:03:04.176
+
+
+JJ_transcr_WF   un iik sin uk naa ain thriiuu fa'uner deer naa Améerikaa wíziin too bise'ik
+TC              00:03:04.471 - 00:03:09.098
+
+
+WW_transcr_WF   weer wéerstuu deer állerweegen
+TC              00:03:09.314 - 00:03:11.726
+
+
+JJ_transcr_WF   hm
+TC              00:03:12.039 - 00:03:13.196
+
+
+JJ_transcr_WF   in Wásiington in Neáapilis in Sinsiinéetii
+TC              00:03:13.471 - 00:03:17.314
+
+
+JJ_transcr_WF   in Báltiimoor in Nii-Jå'åk
+TC              00:03:17.569 - 00:03:20.314
+
+
+WW_transcr_WF   un dait gans alle'in ((..))
+TC              00:03:20.608 - 00:03:24.176
+
+
+JJ_transcr_WF   un iik sin gans alle'in wíider kíimiin up schip
+TC              00:03:24.216 - 00:03:27.235
+
+
+WW_transcr_WF   alle'in uur see
+TC              00:03:27.392 - 00:03:28.647
+
+
+JJ_transcr_WF   oi
+TC              00:03:28.471 - 00:03:29.314
+
+
+WW_transcr_WF   saa bístuu wol dü'chtiig séekronk wíziin nich?
+TC              00:03:29.196 - 00:03:32.471
+
+
+JJ_transcr_WF   gaar nich séekronk sin iik wíziin
+TC              00:03:32.784 - 00:03:35.118
+
+
+WW_transcr_WF   ((..))
+TC              00:03:35.608 - 00:03:37.961
+
+
+JJ_transcr_WF   hahaha
+TC              00:03:38.686 - 00:03:42.471
+
+

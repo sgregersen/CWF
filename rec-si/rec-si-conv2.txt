@@ -1,0 +1,203 @@
+[rec-si-conv2]
+
+
+WW_transcr_WF   an un far sich weer up Wangeróoch ((far)) jung liuud doch gaar nich feel fargnø'øgen
+TC              00:00:07.300 - 00:00:13.150
+
+
+JJ_transcr_WF   naa bii súumerdii daa wéeren daa jung liúuden - daa fénter al weg up schip
+TC              00:00:13.200 - 00:00:18.620
+
+
+JJ_transcr_WF   un bii wínterdii den mácketen yaa únnerooren fargnø'øgen
+TC              00:00:18.740 - 00:00:23.110
+
+
+WW_transcr_WF   twóomool in- in de wínter fillíicht naa de féedel too too dónsen
+TC              00:00:23.830 - 00:00:28.460
+
+
+JJ_transcr_WF   oi
+TC              00:00:28.590 - 00:00:29.400
+
+
+WW_transcr_WF   dait weer 't me'istens all
+TC              00:00:29.530 - 00:00:31.180
+
+
+WW_transcr_WF   moo rooet det nich
+TC              00:00:31.400 - 00:00:32.610
+
+
+JJ_transcr_WF   un den wuurd der 'n píizel uutkróoemen
+TC              00:00:32.990 - 00:00:35.890
+
+
+JJ_transcr_WF   un deer dónseten daa jung liúuden oon un daa béener daa kúunen deer sítten un kúunen tóolauk
+TC              00:00:36.120 - 00:00:42.550
+
+
+WW_transcr_WF   un pask / den wúurden der óoiier fárvet
+TC              00:00:43.930 - 00:00:46.970
+
+
+WW_transcr_WF   un den gíingen yaa all jung - un den gíingen all jung liúud naa de dúunen too mit- mit yar óoiier too smíitiin up gärs un up mos
+TC              00:00:47.370 - 00:00:55.550
+
+
+JJ_transcr_WF   un fénter un fa'uner daa gíingen all weg too óoiiersmiiten
+TC              00:00:55.900 - 00:00:59.430
+
+
+WW_transcr_WF   oors weer der den uk dan gánsen súumer bíinaa nicks looes / éerder nich eer daa- eer 't jung folk wíider fon see iin ((kaum))
+TC              00:01:02.080 - 00:01:09.570
+
+
+JJ_transcr_WF   un de jungen- jaa jung fénter daa wéeren 'n gánsen súumer weg up see
+TC              00:01:10.160 - 00:01:16.210
+
+
+JJ_transcr_WF   un in wínter den wéeren yaa den gewø'ønliik iin
+TC              00:01:16.310 - 00:01:19.380
+
+
+WW_transcr_WF   un diin fédder is jaa le'ider bii uus an bood / is hii t- too dooed kíimiin / uur bood fúllen un fardrónken
+TC              00:01:20.180 - 00:01:27.360
+
+
+WW_transcr_WF   dait weer doch tróoriig nich
+TC              00:01:29.610 - 00:01:31.640
+
+
+JJ_transcr_WF   dan kaum 'n aiven föörheer eer hii weg fáret / kau- kaum hii noch bii uus un brooet (('n níien ansuug ..))
+TC              00:01:31.830 - 00:01:41.010
+
+
+JJ_transcr_WF   ((..)) miin brooer won hii fillíicht nich wíiderkaum ((..)) dat hii nich wíiderkaum
+TC              00:01:41.200 - 00:01:46.840
+
+
+WW_transcr_WF   dait is de eerst wíziin deer iik up see mit farlíriin häb
+TC              00:01:48.510 - 00:01:52.380
+
+
+WW_transcr_WF   iik weer daa noch saa 'n - noch jung / iik weer eerst saa 'n fü'üftiin séxtiin jeer ooel
+TC              00:01:53.010 - 00:01:58.840
+
+
+JJ_transcr_WF   un hii weer uk éerst 'n paar jeer uut school / hii weer uk noch gans jung
+TC              00:01:59.340 - 00:02:03.310
+
+
+WW_transcr_WF   hii weer wail saa 'n áchtiin jeer ((..))
+TC              00:02:03.150 - 00:02:05.600
+
+
+JJ_transcr_WF   oi áchtiin jeer ((..))
+TC              00:02:06.090 - 00:02:08.220
+
+
+WW_transcr_WF   un 'n fíxen kéerel / swom kuun hii as 'n fisk
+TC              00:02:08.720 - 00:02:11.600
+
+
+WW_transcr_WF   áaber wii kúunen der nicks an máckii / wii kúunen ((..))
+TC              00:02:14.600 - 00:02:17.870
+
+
+JJ_transcr_WF   ((..)) nich help kúunen ((..)) häb't him nich wíiderkriig kúunen
+TC              00:02:17.070 - 00:02:20.930
+
+
+WW_transcr_WF   un saa is der saa mónniich fan Wangeróoch ((hää)) up see siin léevent lat't
+TC              00:02:24.320 - 00:02:28.440
+
+
+JJ_transcr_WF   oi miin gánse fermíilii is ((jaa bol ..)) too melø'ør kíimiin up see
+TC              00:02:30.510 - 00:02:35.220
+
+
+JJ_transcr_WF   ((..))
+TC              00:02:36.210 - 00:02:37.250
+
+
+WW_transcr_WF   diin bab dan is doch an- an laun stúurven nich
+TC              00:02:37.650 - 00:02:41.380
+
+
+JJ_transcr_WF   oi dan is an laun stúurven
+TC              00:02:39.700 - 00:02:41.360
+
+
+WW_transcr_WF   un huu ooel sint diin jungst b- is diin jungst been nuu al
+TC              00:02:45.470 - 00:02:50.330
+
+
+JJ_transcr_WF   sjúugen-un-dártiig
+TC              00:02:51.410 - 00:02:52.930
+
+
+WW_transcr_WF   sjúugen-un-dártiig
+TC              00:02:53.050 - 00:02:54.430
+
+
+WW_transcr_WF   den bístuu jaa al óomel / mónniichmool
+TC              00:02:55.330 - 00:02:57.880
+
+
+JJ_transcr_WF   oi al úuroomel
+TC              00:02:57.880 - 00:02:59.590
+
+
+JJ_transcr_WF   al úuroomel
+TC              00:02:59.680 - 00:03:01.000
+
+
+WW_transcr_WF   un duu bist noch saa rü'stiig
+TC              00:03:04.330 - 00:03:06.090
+
+
+WW_transcr_WF   kánstuu ((noch good jéenaan)) kanst dii noch alle'in hilp nich
+TC              00:03:08.090 - 00:03:11.090
+
+
+JJ_transcr_WF   oi iik hilp mii noch ímmer alle'in / iik mackii 't noch al alle'in sü'lven in 't huus
+TC              00:03:10.960 - 00:03:15.400
+
+
+WW_transcr_WF   dait is uk 't best den häst ((..)) wit te doon
+TC              00:03:16.580 - 00:03:19.500
+
+
+WW_transcr_WF   won duu ni' moo kanst den gúngstuu naa diin béener too
+TC              00:03:19.880 - 00:03:22.870
+
+
+JJ_transcr_WF   oi
+TC              00:03:19.920 - 00:03:20.640
+
+
+JJ_transcr_WF   den gung iik - farre'iz iik 'n tíidlaang
+TC              00:03:23.670 - 00:03:26.020
+
+
+JJ_transcr_WF   den gung 'k mool naa Wíllemshååven den mool naa Hambå'årg
+TC              00:03:26.090 - 00:03:28.890
+
+
+WW_transcr_WF   den mool naa Hámbåårg
+TC              00:03:29.090 - 00:03:29.960
+
+
+JJ_transcr_WF   un den mool naa Brü'mme un Hambå'årg un Háarbåårg
+TC              00:03:29.980 - 00:03:32.880
+
+
+WW_transcr_WF   un fillíicht uk noch mool wíider naa Améerikaa
+TC              00:03:33.190 - 00:03:35.900
+
+
+JJ_transcr_WF   ha naa Améerikaa mii iik uk noch wail wíider wéggung
+TC              00:03:36.350 - 00:03:39.880
+
+

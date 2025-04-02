@@ -1,0 +1,62 @@
+[rec-br-jwlife]
+
+JW_transcr_WF   ((..)) weer ((dait)) Wangeróoch gans oors
+TC              00:00:08.707 - 00:00:12.840
+
+
+JW_transcr_WF   as hiir
+TC              00:00:12.947 - 00:00:14.840
+
+
+JW_transcr_WF   as nuu
+TC              00:00:15.613 - 00:00:16.973
+
+
+JW_transcr_WF   daa ha'iden wii 'n grooeten hérskafliiken ((..))
+TC              00:00:17.427 - 00:00:21.520
+
+
+JW_transcr_WF   bla'umerbeeden un ((..)) un 'n gróoeten páaviljåång ((..)) too muuzíikmackiin
+TC              00:00:22.080 - 00:00:34.800
+
+
+JW_transcr_WF   ((..)) un farkóoep an de báaders
+TC              00:00:36.360 - 00:00:46.240
+
+
+JW_transcr_WF   ((..)) deer músten wii ítten fon hállii
+TC              00:00:56.680 - 00:01:02.080
+
+
+JW_transcr_WF   un daa a'inmool haid iik melø'ør ((..)) in dan góoren
+TC              00:01:02.240 - 00:01:10.920
+
+
+JW_transcr_WF   ((..)) wegeníin ((..)) daa must iik noch a'inmool weg ((un must dait)) hállii
+TC              00:01:16.640 - 00:01:24.960
+
+
+JW_transcr_WF   dan wéstturm stuun mídden in 't lauch
+TC              00:01:29.920 - 00:01:36.560
+
+
+JW_transcr_WF   deer sin iik oon konferméerd
+TC              00:01:41.160 - 00:01:44.520
+
+
+JW_transcr_WF   ((..)) wéstturm is jaa nuu mit dan oor kriig ((..))
+TC              00:01:56.360 - 00:02:03.120
+
+
+JW_transcr_WF   un all - all- de gánse mínskheit ((biisúudelt)) dat wii dait dain häb't
+TC              00:02:04.760 - 00:02:14.120
+
+
+JW_transcr_WF   ((..))
+TC              00:02:19.000 - 00:02:22.160
+
+
+JW_transcr_WF   dait is doch scháTHii dat dait ooel Wangeróoge ((..))
+TC              00:02:35.840 - 00:02:47.640
+
+

@@ -1,0 +1,214 @@
+[rec-si-grandfather]
+
+
+WW_transcr_WF   uut miin óopel siin léeventstiid
+TC              00:00:06.750 - 00:00:09.831
+
+
+WW_transcr_WF   miin óopel weer 'n fáriinsmon
+TC              00:00:10.221 - 00:00:12.838
+
+
+WW_transcr_WF   hii wúnnet up Wangeróoch
+TC              00:00:13.375 - 00:00:15.169
+
+
+WW_transcr_WF   dait weer nuu wail soo uum 't jeer áchtiinhunnert tréttiin fíirtiin
+TC              00:00:16.544 - 00:00:21.934
+
+
+WW_transcr_WF   wii ha'iden kriig mit de fransóozen
+TC              00:00:22.029 - 00:00:24.779
+
+
+WW_transcr_WF   un de éngelsk wéeren up 'e oostsíid
+TC              00:00:24.912 - 00:00:27.684
+
+
+WW_transcr_WF   daa laig éenes diis miin óopel mit siin schip in de Wíizer far ánker
+TC              00:00:28.294 - 00:00:33.110
+
+
+WW_transcr_WF   hii must hooch wátter a'uftaiv
+TC              00:00:33.985 - 00:00:36.500
+
+
+WW_transcr_WF   un / hii un siin liuud ha'iden yam dílleliin too sla'ipen
+TC              00:00:37.110 - 00:00:41.750
+
+
+WW_transcr_WF   unnertúsken weer der 'n éngelsken mannewå'år de Wíizer 'erúp kíimen
+TC              00:00:42.587 - 00:00:48.076
+
+
+WW_transcr_WF   un fon dait schip uut wuurd miin óopel mit gewált fon bood a'ufhallet
+TC              00:00:49.076 - 00:00:53.880
+
+
+WW_transcr_WF   un mit up dait schip an bood níimiin
+TC              00:00:54.196 - 00:00:57.000
+
+
+WW_transcr_WF   un den fáreten yaa naa see too
+TC              00:00:57.185 - 00:00:59.098
+
+
+WW_transcr_WF   wut miin óopel up dait schip biilíbbet hää / déeruur kan iik gar nich fertä'äl
+TC              00:01:00.435 - 00:01:06.489
+
+
+WW_transcr_WF   áaber / thriiuu jeer haid hii al op dait schip thiooent
+TC              00:01:07.326 - 00:01:11.250
+
+
+WW_transcr_WF   de kriig weer al lengst ferbíi
+TC              00:01:11.848 - 00:01:14.272
+
+
+WW_transcr_WF   áaber ímmer róoeten de éngelsk him siin fríidoom noch nich
+TC              00:01:14.565 - 00:01:18.576
+
+
+WW_transcr_WF   hii mucht oo soo gans géeren up dait schip wízze
+TC              00:01:20.402 - 00:01:24.348
+
+
+WW_transcr_WF   de thiooenst gevúl 'm gans good
+TC              00:01:24.728 - 00:01:27.174
+
+
+WW_transcr_WF   áaber / up Wangeróoch haid hii wüüf un béener
+TC              00:01:27.641 - 00:01:31.663
+
+
+WW_transcr_WF   daa haid hii in thriiuu jeer ni' moo bla'uket
+TC              00:01:32.065 - 00:01:35.087
+
+
+WW_transcr_WF   un hii haid grooet ferlángen naa yam
+TC              00:01:35.587 - 00:01:38.413
+
+
+WW_transcr_WF   deer weer nuu oors uk noch 'n thiúutsker an bood up dait sü'lve schip
+TC              00:01:39.261 - 00:01:44.043
+
+
+WW_transcr_WF   un dan un miin óopel fera'ufreederten sich / de eerst geléegenhait / too biinútsen / uum too deezertéeren
+TC              00:01:44.587 - 00:01:53.880
+
+
+WW_transcr_WF   yaa la'igen mit dait schip in de Tääms bii Lónnen
+TC              00:01:55.859 - 00:01:58.717
+
+
+WW_transcr_WF   deer wuurd nuu éenes diis grooet fäst fiird
+TC              00:01:59.337 - 00:02:03.326
+
+
+WW_transcr_WF   un de meist fon de ofséeren un liuud wéeren an laun
+TC              00:02:03.891 - 00:02:07.685
+
+
+WW_transcr_WF   daa twaid miin óopel / jeen siin la'unsmon / fannácht óoder gaar nich
+TC              00:02:08.609 - 00:02:14.326
+
+
+WW_transcr_WF   un as det djúunkenauch weer / ferlíiten yaa 't schip
+TC              00:02:15.011 - 00:02:19.043
+
+
+WW_transcr_WF   un ka'umen fon nímmen heerd un nímmen bla'uket glúckelk an laun
+TC              00:02:19.207 - 00:02:23.717
+
+
+WW_transcr_WF   dan oor dii liip miin óopel in de stra'iten fon Lónnen
+TC              00:02:24.707 - 00:02:29.337
+
+
+WW_transcr_WF   as up a'inmool siin bäst biikánd ofséer far him stuun
+TC              00:02:30.348 - 00:02:35.359
+
+
+WW_transcr_WF   daa thocht hii / nuu sin iik farlíriin
+TC              00:02:36.065 - 00:02:39.196
+
+
+WW_transcr_WF   den up deezertéeren stuun dóoedesstraf
+TC              00:02:39.717 - 00:02:43.685
+
+
+WW_transcr_WF   áaber dan ofséer kreig siin jílpurs (('erduut))
+TC              00:02:44.609 - 00:02:48.511
+
+
+WW_transcr_WF   un root miin óopel 'n stuk jil un giing den siin wii
+TC              00:02:48.859 - 00:02:52.326
+
+
+WW_transcr_WF   daa wust miin óopel ((..))
+TC              00:02:53.413 - 00:02:55.913
+
+
+WW_transcr_WF   hii mácket dat hii fon Lónnen dánne kaum / un kaum slíisliik den jedóch glúckelk op Wangeróoch wíider an
+TC              00:02:56.380 - 00:03:02.870
+
+
+WW_transcr_WF   hii weer al ooel
+TC              00:03:04.250 - 00:03:05.707
+
+
+WW_transcr_WF   hii haid 't fáriin al tóorooet
+TC              00:03:07.489 - 00:03:10.141
+
+
+WW_transcr_WF   un hii weer al an laun blíiviin
+TC              00:03:10.793 - 00:03:12.793
+
+
+WW_transcr_WF   daa kaum eenes - eenes diis
+TC              00:03:13.272 - 00:03:15.533
+
+
+WW_transcr_WF   miin bab mit siin schip fon Wangeróoch
+TC              00:03:16.141 - 00:03:18.674
+
+
+WW_transcr_WF   him faild 'n mon
+TC              00:03:19.174 - 00:03:20.772
+
+
+WW_transcr_WF   áaber up gans Wangeróoch weer nich ään too kríigen
+TC              00:03:21.696 - 00:03:24.587
+
+
+WW_transcr_WF   daa twaa miin óopel too ((..))
+TC              00:03:25.424 - 00:03:28.076
+
+
+WW_transcr_WF   den gung iik no' 'n mool wíider mit
+TC              00:03:28.359 - 00:03:30.467
+
+
+WW_transcr_WF   wut hii den uk daid
+TC              00:03:31.457 - 00:03:33.011
+
+
+WW_transcr_WF   yaa se'ilden naa Lónnen
+TC              00:03:33.891 - 00:03:35.326
+
+
+WW_transcr_WF   un as yaa dort - deer kaumen / weer ((..)) de kooleraa deer in- in gong
+TC              00:03:35.674 - 00:03:40.924
+
+
+WW_transcr_WF   miin oopel kreig 't uk
+TC              00:03:41.674 - 00:03:43.315
+
+
+WW_transcr_WF   miin bab brooet him naa 't hóspiitaal too
+TC              00:03:43.957 - 00:03:46.446
+
+
+WW_transcr_WF   un den duurt 't man 'n fiiv sex stúunen daa weer hii dooed
+TC              00:03:46.717 - 00:03:49.946
+

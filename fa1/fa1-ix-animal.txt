@@ -1,3 +1,5 @@
+[fa1-ix-animal]
+
 FA.I.IX
 
 Bezeichnung einiger Thierlaute.

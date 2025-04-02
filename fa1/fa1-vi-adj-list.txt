@@ -1,3 +1,5 @@
+[fa1-vi-adj-list]
+
 FA.I.VI
 
 Verzeichnis von Adjectiven, Adverbien und kleineren Redetheilen.

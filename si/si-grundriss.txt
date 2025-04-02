@@ -1,3 +1,5 @@
+[si-grundriss]
+
 Example sentences and lexical material from Th. Siebs, Geschichte der friesischen Sprache (in H. Paul, Grundriss der germanischen Philologie, 2nd edn, Straßburg 1901)
 
 --

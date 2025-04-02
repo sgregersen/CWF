@@ -1,0 +1,79 @@
+[rec-br-juene]
+
+
+JJ_transcr_WF   iik heit Johánnaa Jü'üneman / iik sin fon Wanger- op Wangeróoch bíriin / njúugentiinhunnert- achtiinhunnert sjúugen-un-féertiich
+TC              00:00:09.160 - 00:00:18.600
+
+
+JJ_transcr_WF   ((..))
+TC              00:00:20.240 - 00:00:23.020
+
+
+JJ_transcr_WF   un wúnnii hiir in Fooel / iik sin - up Wangeróoch häb iik in school gíingen
+TC              00:00:23.780 - 00:00:29.760
+
+
+JJ_transcr_WF   un as det ooel Wangeróoch wégriitiin is daa sin wii naa Fooel kíimiin
+TC              00:00:30.080 - 00:00:34.940
+
+
+JJ_transcr_WF   un deer sin iik up Wangeróoch eerst in school gíingen un daa weer iik njúugen jeer ((..)) wii hiir hooed kíimiin sint / naa Fooel
+TC              00:00:37.100 - 00:00:45.520
+
+
+JJ_transcr_WF   un daa ((..)) miin mäm ((stúurven))
+TC              00:00:45.820 - 00:00:50.140
+
+
+JJ_transcr_WF   un daa häb iik mii biifríid as iik njúugentiin jeer weer un iik häb állerlei béener haivt
+TC              00:00:51.220 - 00:00:56.640
+
+
+JJ_transcr_WF   häb yam uk all grooet kríigiin un sint uk wol grooet ((..))
+TC              00:00:56.760 - 00:01:00.440
+
+
+JJ_transcr_WF   ((..)) hehe moo wart 't nich hehe
+TC              00:01:02.260 - 00:01:10.560
+
+
+JJ_transcr_WF   oi oi oi oi un ((all daa)) - fiaur béener häb iik in Améerikaa - fiiv / ain in Sü'üd-Ameerikaa
+TC              00:01:14.420 - 00:01:20.680
+
+
+JJ_transcr_WF   un daa oor in Noord-Améerikaa
+TC              00:01:21.340 - 00:01:25.180
+
+
+JJ_transcr_WF   hehe ((.. fertääl?))
+TC              00:01:31.140 - 00:01:35.500
+
+
+JJ_transcr_WF   nee Wíltert / un wii sint nóoebers wíziin / wii häb't ímmer toohóoep wúnnet
+TC              00:01:35.980 - 00:01:42.020
+
+
+JJ_transcr_WF   un sint uk mónniichmool mitóoren up school gíingen / hiir in Fooel / up Wangeróoch nich áaber hiir in Fooel hehe
+TC              00:01:42.520 - 00:01:50.260
+
+
+JJ_transcr_WF   ((..))
+TC              00:01:51.720 - 00:01:55.020
+
+
+JJ_transcr_WF   ((..)) niijeersnácht ((..)) fü'rchterlike wíinen kíimen un daa is de- de- alles weg
+TC              00:01:55.560 - 00:02:06.260
+
+
+JJ_transcr_WF   daa músten wii weg ((..)) hiir naa Fooel hooed
+TC              00:02:08.100 - 00:02:11.780
+
+
+JJ_transcr_WF   ((..))
+TC              00:02:13.260 - 00:02:15.560
+
+
+JJ_transcr_WF   ain twoo thríiuu fiaur fiiv sex sjúugen acht njúugen tjooen ánelf twü'llef thréttiin fíirtiin fü'üftiin sextiin sjúugentiin áchtiin njúugentiin twíntiig
+TC              00:02:16.300 - 00:02:28.900
+
+

@@ -1,0 +1,123 @@
+[rec-br-luths]
+
+
+LL_transcr_WF   dan súunuu
+TC              00:00:10.667 - 00:00:11.533
+
+
+LL_transcr_WF   dan na'azii
+TC              00:00:16.440 - 00:00:17.400
+
+
+LL_transcr_WF   dait schip
+TC              00:00:22.600 - 00:00:23.453
+
+
+LL_transcr_WF   daa schü'üpuu
+TC              00:00:25.453 - 00:00:26.493
+
+
+LL_transcr_WF   djuu snü'üTHuu
+TC              00:00:29.800 - 00:00:30.907
+
+
+LL_transcr_WF   íppiin
+TC              00:00:33.320 - 00:00:34.160
+
+
+LL_transcr_WF   iik sin deer wíziin
+TC              00:00:37.160 - 00:00:38.387
+
+
+LL_transcr_WF   moont
+TC              00:00:41.240 - 00:00:41.867
+
+
+LL_transcr_WF   as wii noch in 't állerliik huus wéeren daa fertääld uuz mem uus fon de fíirdiggen up Wangeróoch
+TC              00:00:44.987 - 00:00:52.587
+
+
+LL_transcr_WF   helgedíi un kirs den weer dait saa fíirelk up Wangeróoch
+TC              00:00:53.507 - 00:00:58.547
+
+
+LL_transcr_WF   den músten yaa in de nacht uum thriiuu úpstaun
+TC              00:00:58.960 - 00:01:03.093
+
+
+LL_transcr_WF   un den gíingen yaa we' naa de tuun
+TC              00:01:03.280 - 00:01:05.360
+
+
+LL_transcr_WF   den wuurd búvve uut de tuun / deer wuurd det uut súngen un bíddert
+TC              00:01:05.520 - 00:01:10.260
+
+
+LL_transcr_WF   un píngelt un let bet meens sex
+TC              00:01:10.380 - 00:01:13.920
+
+
+LL_transcr_WF   saa laang músten yaa den deer staun
+TC              00:01:14.147 - 00:01:16.640
+
+
+LL_transcr_WF   un den gíingen yaa uum sex heníin un drónken kóffii
+TC              00:01:16.733 - 00:01:20.560
+
+
+LL_transcr_WF   un den tóogen yaa yam oon un gúungen naa de tuun
+TC              00:01:20.773 - 00:01:24.347
+
+
+LL_transcr_WF   un den se'iten yaa saa laang in de tuun bet hast twü'llef den gíingen yaa 'eníin / un den a'iten yaa
+TC              00:01:25.013 - 00:01:31.400
+
+
+LL_transcr_WF   un náamiddiggen ((..)) kóffii
+TC              00:01:31.573 - 00:01:34.307
+
+
+LL_transcr_WF   un nicks óonfattii / nain árbeid
+TC              00:01:36.020 - 00:01:38.900
+
+
+LL_transcr_WF   un dan twe'inste dii den weer der féedel up Wangeróoch
+TC              00:01:39.380 - 00:01:42.900
+
+
+LL_transcr_WF   den gíingen de fénter un de fa'uner / un uk de ooel liúuden / gíingen ((den)) naa de féedel
+TC              00:01:43.200 - 00:01:49.120
+
+
+LL_transcr_WF   un den is dait saa fíirelk wíziin / un yaa sint saa fra'uelk wíziin
+TC              00:01:49.500 - 00:01:54.127
+
+
+LL_transcr_WF   weil yaa man a'inmool in 't jeer dait ha'iden
+TC              00:01:54.327 - 00:01:56.720
+
+
+LL_transcr_WF   den hä'bbet yaa nich wust far lúuter fraud wut yaa ánfang sul häb't
+TC              00:01:56.720 - 00:02:01.000
+
+
+LL_transcr_WF   un den hä'bbet yaa den an de meen dónset
+TC              00:02:02.880 - 00:02:05.640
+
+
+LL_transcr_WF   un den sint yaa uk mit de fénter 'eníin gíingen / naa dan fent siin huus / deer häbbet yaa den tee drónken / dait is up Wangeróoch de mood wíziin
+TC              00:02:06.140 - 00:02:13.240
+
+
+LL_transcr_WF   un siibelfíister is det uk saa wíziin
+TC              00:02:17.080 - 00:02:20.480
+
+
+LL_transcr_WF   den hä'bbet yaa -
+TC              00:02:20.660 - 00:02:22.680
+
+
+LL_transcr_WF   uum thriiuu sint yaa wíider wéggiingen naa de tuun / den hä'bbet yaa bet sex meens ...
+TC              00:02:22.840 - 00:02:27.000
+
+

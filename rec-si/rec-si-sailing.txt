@@ -1,0 +1,83 @@
+[rec-si-sailing]
+
+
+WW_transcr_WF   iik häb fö'öftiig jeer up see fáriin un häb wéerender tiid állerlei erlíbbet
+TC              00:00:01.540 - 00:00:06.560
+
+
+WW_transcr_WF   fjáuer jung liuud ((..)) fon miin siid weg uur bood slain
+TC              00:00:07.740 - 00:00:12.680
+
+
+WW_transcr_WF   un tw- twoo mínsken deer stúurven wéeren am bood häb iik óonsiid in 't síildauk un mit uur bood lat't
+TC              00:00:13.460 - 00:00:22.340
+
+
+WW_transcr_WF   un sülst sin iik uk mónniichmool der ticht aan too wíziin miin léeven too ferlíir - fer- ferlíuwe
+TC              00:00:24.640 - 00:00:30.820
+
+
+WW_transcr_WF   a'inmool daa wuurd iik fon 'n stórtsee uur bood slain
+TC              00:00:31.780 - 00:00:36.400
+
+
+WW_transcr_WF   hiil mii áaber an 'n tau fääst weer iik mit stjuurd
+TC              00:00:36.920 - 00:00:40.440
+
+
+WW_transcr_WF   't schip leig gans up siid
+TC              00:00:41.280 - 00:00:44.220
+
+
+WW_transcr_WF   un iik liit dait tau jaa ni' los un wuurd déerfon únner wátter híilen
+TC              00:00:44.960 - 00:00:50.320
+
+
+WW_transcr_WF   durst 't uk jaa ni' lóslait den weer iik jaa ferlíriin wíziin
+TC              00:00:51.260 - 00:00:55.100
+
+
+WW_transcr_WF   nuu áaber kuun iik nain luft hállii
+TC              00:00:56.660 - 00:00:59.020
+
+
+WW_transcr_WF   un iik feild ímmer dat - huu sweer dat det al in miin brust wuurd
+TC              00:00:59.860 - 00:01:04.480
+
+
+WW_transcr_WF   ((..))
+TC              00:01:04.940 - 00:01:08.140
+
+
+WW_transcr_WF   un det haid hóochstens noch 'n halv menúut duur kuun den / weer iik weg wíziin
+TC              00:01:08.780 - 00:01:14.940
+
+
+WW_transcr_WF   áaber up a'inmool / daa leig iik mit de brust up 'e rä'liing fon 't schip
+TC              00:01:15.640 - 00:01:21.800
+
+
+WW_transcr_WF   of det schip sich nuu úpriuchtert haid óoder of ((den)) mítliidige see mii deer 'nup smíitiin haid / iik weit 't nich
+TC              00:01:22.640 - 00:01:30.080
+
+
+WW_transcr_WF   wéeniichstens nuu kuun iik wíider om hállii
+TC              00:01:30.840 - 00:01:33.840
+
+
+WW_transcr_WF   un daa duurt 't man íiben / daa kaum - daa daid dait tau / weer iik mii an fest hiil / wit- weer mit stjuurd wuurd / dait daid 'n slag un hállet mii gans uur de rä'liing ((..úur))
+TC              00:01:35.100 - 00:01:48.960
+
+
+WW_transcr_WF   daa stuun iik jaa an deck
+TC              00:01:49.860 - 00:01:51.800
+
+
+WW_transcr_WF   wail nuu áaber dait roor / wut ímmer ((..)) de roorpen / wail iik griip
+TC              00:01:52.680 - 00:01:59.380
+
+
+WW_transcr_WF   áaber yuu haid ímmer den soo 'n gewált / iik kuun hírii ni' hooel
+TC              00:02:00.140 - 00:02:04.580
+
+

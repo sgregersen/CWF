@@ -1,0 +1,95 @@
+[rec-br-conv]
+
+
+JJ_transcr_WF   ((..)) saa laang wíziin ((..)) saa laang ni' bla'uket du wailst ((..)) ímmer wíider kúmme un du kumst nich a'inmool
+TC              00:00:10.400 - 00:00:16.933
+
+
+JJ_transcr_WF   huu kumt dait
+TC              00:00:17.267 - 00:00:18.587
+
+
+WW_transcr_WF   iik haid ímmer wit too dooen / mool dit un mool dait
+TC              00:00:19.053 - 00:00:22.947
+
+
+JJ_transcr_WF   haidst duu gaar niin - gaar nich a'inmool tiid dáttuu hiir mool hooed kumst up 'n naamidíi un ((biisochst)) mii mooel?
+TC              00:00:25.880 - 00:00:32.387
+
+
+JJ_transcr_WF   un wii sint saa laang nóoebers wíziin
+TC              00:00:32.453 - 00:00:35.373
+
+
+WW_transcr_WF   dait sint wii áaber / iik kuun nich
+TC              00:00:36.760 - 00:00:40.387
+
+
+WW_transcr_WF   iik must uk feel naa de hóoeven too naa miin swéster un naa miin swóoger daa wult mii ímmer saa géeren sjoo
+TC              00:00:40.560 - 00:00:47.093
+
+
+WW_transcr_WF   un saa ((..)) dat iik hiir nich naa dii too kíimiin sin
+TC              00:00:47.253 - 00:00:51.293
+
+
+JJ_transcr_WF   ((..)) nuu kumst duu jedóch noch wol ((..)) hiir hooed un bisóchst mii mooel
+TC              00:00:53.187 - 00:00:59.000
+
+
+JJ_transcr_WF   den ik sin uk jedóch ímmer alle'in
+TC              00:00:59.680 - 00:01:02.360
+
+
+WW_transcr_WF   iik weit jaa nuu weer duu wúnnest ((..))
+TC              00:01:05.480 - 00:01:10.120
+
+
+WW_transcr_WF   un kumst duu uk doch mool hooed / ((.. wíziin))
+TC              00:01:10.187 - 00:01:15.600
+
+
+JJ_transcr_WF   ((..)) dait wul iik uk / iik wul uk noch 'n mool naa yoo hooed kúmme den iik häb diin bab saa good kúunen un diin mäm häb iik saa good kúunen
+TC              00:01:15.840 - 00:01:24.853
+
+
+JJ_transcr_WF   un all diin swésters uk un sint ímmer nóoebers wízziin ímmer thicht ((bii 'n oor)) wúnnet un mitóoren naa school gíingen un all
+TC              00:01:25.000 - 00:01:32.773
+
+
+WW_transcr_WF   den kan wii ((uk man)) ímmer ((..)) saa laang as wii no' líbbet
+TC              00:01:34.520 - 00:01:38.987
+
+
+WW_transcr_WF   ((..))
+TC              00:01:39.853 - 00:01:47.280
+
+
+JJ_transcr_WF   ((..)) uuz gesprék hiir noch ((..)) wii uk al laang weg sint
+TC              00:01:49.027 - 00:01:53.680
+
+
+JJ_transcr_WF   ((..))
+TC              00:02:00.853 - 00:02:01.533
+
+
+WW_transcr_WF   ((..))
+TC              00:02:01.347 - 00:02:02.707
+
+
+WW_transcr_WF   ((..))
+TC              00:02:06.760 - 00:02:10.387
+
+
+WW_transcr_WF   all kan iik 't jedóch ((..)) ((up Wangeróoge))
+TC              00:02:10.693 - 00:02:15.800
+
+
+WW_transcr_WF   ((..))
+TC              00:02:16.053 - 00:02:18.360
+
+
+WW_transcr_WF   ((..))
+TC              00:02:18.653 - 00:02:22.907
+
+

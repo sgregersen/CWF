@@ -1,0 +1,62 @@
+[rec-br-jwsent]
+
+JW_transcr_WF   twoo húuzuu
+TC              00:00:08.586 - 00:00:10.240
+
+
+JW_transcr_WF   náazii
+TC              00:00:15.280 - 00:00:16.973
+
+
+JW_transcr_WF   náazii
+TC              00:00:26.213 - 00:00:28.013
+
+
+JW_transcr_WF   thríiuu schü'üpuu
+TC              00:00:33.027 - 00:00:34.840
+
+
+JW_transcr_WF   djuu snü'üTHuu
+TC              00:00:40.533 - 00:00:42.173
+
+
+JW_transcr_WF   deer is nicks bii too máckiin
+TC              00:00:46.640 - 00:00:48.213
+
+
+JW_transcr_WF   nicks bii too máckiin
+TC              00:00:50.520 - 00:00:53.053
+
+
+JW_transcr_WF   dait mut iik dü'üluung no' biitálii
+TC              00:01:00.160 - 00:01:03.427
+
+
+JW_transcr_WF   dan síiliich
+TC              00:01:10.707 - 00:01:13.000
+
+
+JW_transcr_WF   hii hää 'n lóoediing- schip- schípslooediing hállet fon de Wíizer
+TC              00:01:27.867 - 00:01:34.107
+
+
+JW_transcr_WF   ((dan moont)) septémmer
+TC              00:01:47.133 - 00:01:50.867
+
+
+JW_transcr_WF   ain twoo thríiuu fiáuer fiiv sex sjúugen acht njúugen tjooen
+TC              00:02:00.133 - 00:02:08.373
+
+
+JW_transcr_WF   ánelf twü'llef tréttiin fíirtiin fü'üftiin séxtiin sjúugentiin áchtiin njúugentiin twíntiich
+TC              00:02:09.093 - 00:02:17.253
+
+
+JW_transcr_WF   klock is tjooen ((nuu)) mut iik nø'ødiig sla'ipen
+TC              00:02:25.733 - 00:02:30.853
+
+
+JW_transcr_WF   ((meenédder)) ((..)) úpstaun
+TC              00:02:32.627 - 00:02:36.347
+
+

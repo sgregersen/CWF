@@ -1,0 +1,79 @@
+[rec-si-candlemass]
+
+
+WW_transcr_WF   wii ha'iden up Wangeróoch too liáchtmes
+TC              00:00:03.800 - 00:00:06.070
+
+
+WW_transcr_WF   dait is dan twóoden féebruaar
+TC              00:00:06.110 - 00:00:08.220
+
+
+WW_transcr_WF   ha'iden wii saa 'n riim
+TC              00:00:08.920 - 00:00:10.107
+
+
+WW_transcr_WF   dait heerd 'n den hiir un deer wail jéenooren twíddern
+TC              00:00:11.427 - 00:00:14.760
+
+
+WW_transcr_WF   dait hat
+TC              00:00:15.733 - 00:00:16.360
+
+
+WW_transcr_WF   liáchtumsdii
+TC              00:00:16.893 - 00:00:18.320
+
+
+WW_transcr_WF   den hooent de hii
+TC              00:00:18.813 - 00:00:20.200
+
+
+WW_transcr_WF   den kálvert de kíier
+TC              00:00:20.853 - 00:00:22.440
+
+
+WW_transcr_WF   den búllert de sjen
+TC              00:00:22.853 - 00:00:24.427
+
+
+WW_transcr_WF   den kóokelt de han
+TC              00:00:25.227 - 00:00:26.680
+
+
+WW_transcr_WF   den flídert de schull
+TC              00:00:27.120 - 00:00:28.560
+
+
+WW_transcr_WF   den weert all de bull in 't hek dull
+TC              00:00:28.800 - 00:00:31.453
+
+
+WW_transcr_WF   liáchtumsdii
+TC              00:00:33.400 - 00:00:34.933
+
+
+WW_transcr_WF   den hooent de hii
+TC              00:00:35.093 - 00:00:36.560
+
+
+WW_transcr_WF   den kálvert de kíier
+TC              00:00:36.933 - 00:00:38.640
+
+
+WW_transcr_WF   den búllert de sjen
+TC              00:00:38.840 - 00:00:40.533
+
+
+WW_transcr_WF   den kóokelt de han
+TC              00:00:41.160 - 00:00:42.693
+
+
+WW_transcr_WF   den flídert de schull
+TC              00:00:43.187 - 00:00:44.540
+
+
+WW_transcr_WF   den weert all de bull in 't hek dull
+TC              00:00:44.640 - 00:00:47.200
+
+
