@@ -13,7 +13,7 @@ WW_transcr_WF   hii wúnnet up Wangeróoch
 TC              00:00:13.375 - 00:00:15.169
 
 
-WW_transcr_WF   dait weer nuu wail soo uum 't jeer áchtiinhunnert tréttiin fíirtiin
+WW_transcr_WF   dait weer nuu wail soo uum 't jeer áchtiinhunnert thréttiin fíirtiin
 TC              00:00:16.544 - 00:00:21.934
 
 
@@ -25,7 +25,7 @@ WW_transcr_WF   un de éngelsk wéeren up 'e oostsíid
 TC              00:00:24.912 - 00:00:27.684
 
 
-WW_transcr_WF   daa laig éenes diis miin óopel mit siin schip in de Wíizer far ánker
+WW_transcr_WF   daa leig éenes diis miin óopel mit siin schip in de Wíizer far ánker
 TC              00:00:28.294 - 00:00:33.110
 
 
@@ -97,7 +97,7 @@ WW_transcr_WF   un dan un miin óopel fera'ufreederten sich / de eerst geléegen
 TC              00:01:44.587 - 00:01:53.880
 
 
-WW_transcr_WF   yaa la'igen mit dait schip in de Tääms bii Lónnen
+WW_transcr_WF   yaa le'igen mit dait schip in de Tääms bii Lónnen
 TC              00:01:55.859 - 00:01:58.717
 
 
@@ -141,7 +141,7 @@ WW_transcr_WF   áaber dan ofséer kreig siin jílpurs (('erduut))
 TC              00:02:44.609 - 00:02:48.511
 
 
-WW_transcr_WF   un root miin óopel 'n stuk jil un giing den siin wii
+WW_transcr_WF   un rooet miin óopel 'n stuk jil un giing den siin wii
 TC              00:02:48.859 - 00:02:52.326
 
 
@@ -165,7 +165,7 @@ WW_transcr_WF   un hii weer al an laun blíiviin
 TC              00:03:10.793 - 00:03:12.793
 
 
-WW_transcr_WF   daa kaum eenes - eenes diis
+WW_transcr_WF   daa kaum éenes - éenes diis
 TC              00:03:13.272 - 00:03:15.533
 
 
@@ -197,11 +197,11 @@ WW_transcr_WF   yaa se'ilden naa Lónnen
 TC              00:03:33.891 - 00:03:35.326
 
 
-WW_transcr_WF   un as yaa dort - deer kaumen / weer ((..)) de kooleraa deer in- in gong
+WW_transcr_WF   un as yaa dort - deer ka'umen / weer ((..)) de kóoleraa deer in- in gong
 TC              00:03:35.674 - 00:03:40.924
 
 
-WW_transcr_WF   miin oopel kreig 't uk
+WW_transcr_WF   miin óopel kreig 't uk
 TC              00:03:41.674 - 00:03:43.315
 
 
@@ -211,4 +211,3 @@ TC              00:03:43.957 - 00:03:46.446
 
 WW_transcr_WF   un den duurt 't man 'n fiiv sex stúunen daa weer hii dooed
 TC              00:03:46.717 - 00:03:49.946
-
