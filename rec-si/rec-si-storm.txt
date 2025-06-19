@@ -81,7 +81,7 @@ WW_transcr_WF   de Wangeróogers áaber daa ha'iden drok too dooen
 TC              00:02:18.420 - 00:02:21.500
 
 
-WW_transcr_WF   yaa líipen wut yaa man lóopen kúunen uum too rä'äden wut noch to rä'äden weer
+WW_transcr_WF   yaa líipen wut yaa man lóopen kúunen uum too rä'äden wut noch too rä'äden weer
 TC              00:02:22.000 - 00:02:27.120
 
 

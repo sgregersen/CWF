@@ -17,7 +17,7 @@ WW_transcr_WF   dait weer nuu wail soo uum 't jeer áchtiinhunnert thréttiin f�
 TC              00:00:16.544 - 00:00:21.934
 
 
-WW_transcr_WF   wii ha'iden kriig mit de fransóozen
+WW_transcr_WF   wii ha'iden kriich mit de fransóozen
 TC              00:00:22.029 - 00:00:24.779
 
 
@@ -61,7 +61,7 @@ WW_transcr_WF   áaber / thriiuu jeer haid hii al op dait schip thiooent
 TC              00:01:07.326 - 00:01:11.250
 
 
-WW_transcr_WF   de kriig weer al lengst ferbíi
+WW_transcr_WF   de kriich weer al längst ferbíi
 TC              00:01:11.848 - 00:01:14.272
 
 
